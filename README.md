@@ -2,7 +2,7 @@
 <h3 align="center">Developer passionate about code, music and games :)</h3>
 <img align="right" alt="Monkey making noise inside Homer Simpsons' head" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M3OTIyNmVjMjYxNjUyNjljZjVkYzMwY2QzNWQ3ZDkwN2UxY2UyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BBkKEBJkmFbTG/giphy.gif">
 - 🔭 I’m currently working on ? </br>
-- 🌱 I’m currently learning React/PHP </br>
+- 🌱 I’m currently learning React </br>
 - 💬 Ask me about Python/Unity/C# </br>
 - 📫 How to reach me: felipemartinsleandro@hotmail.com </br>
 
